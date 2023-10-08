@@ -75,7 +75,7 @@
 
 .worksection {
   display: grid;
-  grid-template-rows: repeat(4,auto);
+  grid-template-rows: repeat(4, auto);
   gap: 16px;
   background-color: whitesmoke;
 }
